@@ -13,7 +13,7 @@ Mailcat is an OSINT tool that helps discover email addresses associated with a u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mailcat.git
+git clone https://github.com/v1shwajeet/mailcat.git
 cd mailcat
 ```
 
